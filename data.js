@@ -10,7 +10,7 @@
 
 window.DASHBOARD_DATA = {
   profile: {
-    name: "YS",
+    name: "yshunag",
     lang: "JavaScript",
   },
   sections: [
